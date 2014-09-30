@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello-World, first repo. Woo(t). 
+Learning about Git. I'm sure you all care. :) 
